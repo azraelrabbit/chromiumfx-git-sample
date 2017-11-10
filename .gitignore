@@ -287,3 +287,4 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 /For-linux/ceftestf/mycef/libcef.so
+/For-linux/sample.linux.x86/cef32/libcef.so
